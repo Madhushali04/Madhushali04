@@ -77,17 +77,13 @@
 
 <div align="center">
 
-![Madhushali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhushali04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhushali04&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Madhushali04&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect?
 
 <div align="center">
 
@@ -102,7 +98,7 @@
 
 <div align="center">
 
- Welcome to My World 🌐
+ Welcome to My World 🤖
 
 </div>
 
