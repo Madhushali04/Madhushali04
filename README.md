@@ -12,9 +12,9 @@
 
 ## 🙋‍♀️ About Me
 
-- 🌱 Currently building expertise in **AI-driven Cyber Security & Blockchain-based IoT Systems**
+- 🌱 Currently building expertise in **AI-driven Cyber Security**
 - 🔭 Working on projects that bridge **security + smart tech**
-- 🔐 Specializing in **Cyber Security**, **IoT**, and **Blockchain Technology**
+- 🔐 Specializing in **Cyber Security**, **IoT**, and **AI**
 - 🤖 Deeply interested in **Artificial Intelligence & Machine Learning**
 - 🧠 Passionate about **Ethical Hacking, AI-driven Threat Detection & Zero-Day Vulnerability Research**
 ---
@@ -58,6 +58,11 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2C2C2C?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-2C2C2C?style=flat-square&logo=matplotlib&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-2C2C2C?style=flat-square&logo=googlecolab&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-2C2C2C?style=flat-square&logo=deeplearning4j&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-2C2C2C?style=flat-square&logo=spacy&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-2C2C2C?style=flat-square&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-2C2C2C?style=flat-square&logo=yolo&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-2C2C2C?style=flat-square&logo=opencv&logoColor=white)
 
 ### 🧰 Tools & Platforms
 
