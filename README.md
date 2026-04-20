@@ -17,9 +17,6 @@
 - 🔐 Specializing in **Cyber Security**, **IoT**, and **Blockchain Technology**
 - 🤖 Deeply interested in **Artificial Intelligence & Machine Learning**
 - 🧠 Passionate about **Ethical Hacking, AI-driven Threat Detection & Zero-Day Vulnerability Research**
-- 📫 Reach me at: **madhumithadhanashekar@gmail.com**
-- ⚡ Fun fact: I believe the future is **secure, connected, and intelligent**
-
 ---
 
 ## 🛠️ Tech Stack
